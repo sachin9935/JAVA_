@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 public class marge {
     public static void main(String args[]){
@@ -26,5 +25,6 @@ public class marge {
         for(int i=0; i<aSize+bSize; i++){
             System.out.println(marge[i]);
         }
+        sc.close();
     }
 }
