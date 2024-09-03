@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class prefix{
+public class prefix_1d_Array{
     static void printarr(int arr[]){
         int n = arr.length;
         for(int i=0; i<n; i++){
