@@ -30,7 +30,7 @@ public class Pascaltriangle {
         
         int ans[][] = Pascal(n);
         print_matrix(ans);
-
+        sc.close();
     }
     
 }

@@ -151,7 +151,7 @@ public class Two_pointer2 {
         // zeroand_one(arr);
 
         printa(ans);
-        
+        sc.close();
     }
     
 }

@@ -87,5 +87,6 @@ public class Arrays2D {
 
         // Perform and print the multiplication of the two matrices
         multiply(arr, r1, c1, arr1, r2, c2);
+        sc.close();
     }
 }

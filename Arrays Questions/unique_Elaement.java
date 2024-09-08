@@ -63,13 +63,13 @@ public class unique_Elaement {
         int arr[] = {1,2,3,3,2,5};
 
 
-        // unique_Elaements(arr);
+        unique_Elaements(arr);
         // int max1 = max_value(arr);
         
         // int sd = large_element_2nd(arr);
         //  System.out.println(sd);
         // int r = Secound_rep(arr);
         
-
+        
     }
 }
