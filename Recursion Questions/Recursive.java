@@ -12,6 +12,6 @@ class Recursive{
         int n = sc.nextInt();
         System.out.println(SumOf_naturalNo(n));
 
-        sc.close();
+        sc.close(); 
     }
 }
